@@ -6,7 +6,9 @@ The Snake Game is a simple and addictive game where the player controls a snake 
 
 ### Technologies Used
 -HTML
+
 -CSS
+
 -JavaScript
 
 ### How to Play
