@@ -4,6 +4,8 @@ This is a classic Snake Game implemented in JavaScript.
 ### Game Description
 The Snake Game is a simple and addictive game where the player controls a snake on a grid. The objective is to eat the red apples that appear on the board while avoiding collisions with the walls or the snake's own body. Each time the snake eats an apple, it grows longer, making the game more challenging.
 
+![image](https://github.com/Abdoou213/Snake-Game/assets/78567980/a3dcbc00-d6e8-41e0-a6c8-f508c212917d)
+
 ### Technologies Used
 -HTML
 
@@ -32,4 +34,7 @@ The Snake Game is a simple and addictive game where the player controls a snake 
 
 ### Acknowledgements
 This game is based on the classic Snake Game concept and Kenny Yip coding snake game tutorial.
+
+### License
+  This Snake Game is open-source and released under the MIT License. Feel free to modify and distribute the code as per the terms of the license.
 
